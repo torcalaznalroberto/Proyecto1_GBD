@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<InheritanceRelation class="oracle.dbtools.crest.model.design.logical.InheritanceRelation" name="SOCIALES" directorySegmentName="seg_0" id="321279C0-C34F-6FA8-B41D-F6FDBF83E396">
+<createdBy>Roberto</createdBy>
+<createdTime>2021-10-29 10:31:03 UTC</createdTime>
+<ownerDesignName>Ejercico 1.03</ownerDesignName>
+<engineerTo>
+<item key="27BB67D2-5623-F2FF-C7E0-3C3A3F6827AD" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<nameOnSource>Super Type</nameOnSource>
+<nameOnTarget>Sub Type</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceEntity>AD7C1E6A-CE91-B22C-0F66-731D125A021A</sourceEntity>
+<targetEntity>ED0BD0ED-D7C9-30CA-C5E2-93607C5C1431</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</InheritanceRelation>

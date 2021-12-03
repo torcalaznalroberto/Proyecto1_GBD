@@ -1,0 +1,63 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="AD7C1E6A-CE91-B22C-0F66-731D125A021A" name="ALUMNO">
+<createdBy>Roberto</createdBy>
+<createdTime>2021-10-29 10:22:54 UTC</createdTime>
+<ownerDesignName>DM</ownerDesignName>
+<engineerTo>
+<item key="27BB67D2-5623-F2FF-C7E0-3C3A3F6827AD" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="DNI_ALUMNO" id="97BDBCE2-3E56-32AA-9205-D3DBA844EA78">
+<createdBy>Roberto</createdBy>
+<createdTime>2021-10-29 10:23:51 UTC</createdTime>
+<ownerDesignName>DM</ownerDesignName>
+<engineerTo>
+<item key="27BB67D2-5623-F2FF-C7E0-3C3A3F6827AD" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="NOMBRE_COMPLETO" id="7325EC0D-4FF4-15A5-C84E-7EBAB4B24658">
+<createdBy>Roberto</createdBy>
+<createdTime>2021-10-29 10:24:05 UTC</createdTime>
+<ownerDesignName>DM</ownerDesignName>
+<engineerTo>
+<item key="27BB67D2-5623-F2FF-C7E0-3C3A3F6827AD" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="CORRE G.EDUCAAND" id="97A2301C-B4D2-3879-89A4-6561DE15A2F5">
+<createdBy>Roberto</createdBy>
+<createdTime>2021-10-29 10:24:12 UTC</createdTime>
+<ownerDesignName>DM</ownerDesignName>
+<engineerTo>
+<item key="27BB67D2-5623-F2FF-C7E0-3C3A3F6827AD" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<use>0</use>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="C5A4A449-3260-1B7F-DF9A-14294064F19A" name="ALUMNO PK">
+<createdBy>Roberto</createdBy>
+<createdTime>2021-12-02 23:32:41 UTC</createdTime>
+<ownerDesignName>DM</ownerDesignName>
+<engineerTo>
+<item key="27BB67D2-5623-F2FF-C7E0-3C3A3F6827AD" value="true"/>
+</engineerTo>
+<pk>true</pk>
+</identifier>
+</identifiers>
+</Entity>

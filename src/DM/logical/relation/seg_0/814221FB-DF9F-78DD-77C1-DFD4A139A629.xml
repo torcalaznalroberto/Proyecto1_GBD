@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="CALIFICAN CON" directorySegmentName="seg_0" id="814221FB-DF9F-78DD-77C1-DFD4A139A629">
+<createdBy>Roberto</createdBy>
+<createdTime>2021-12-02 23:57:04 UTC</createdTime>
+<ownerDesignName>DM</ownerDesignName>
+<engineerTo>
+<item key="27BB67D2-5623-F2FF-C7E0-3C3A3F6827AD" value="true"/>
+</engineerTo>
+<sourcePk>C5A4A449-3260-1B7F-DF9A-14294064F19A</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>AD7C1E6A-CE91-B22C-0F66-731D125A021A</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>2E517C00-F3D6-B387-EE98-412A1B9EC8E5</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

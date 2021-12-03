@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<relationalModel class="oracle.dbtools.crest.model.design.relational.RelationalDesign" name="Relational_1" id="27BB67D2-5623-F2FF-C7E0-3C3A3F6827AD" mainViewID="4DD955DE-F998-96D6-6AFC-7AF04B7202D9">
+<createdBy>Roberto</createdBy>
+<createdTime>2021-10-29 10:20:03 UTC</createdTime>
+<ownerDesignName>Ejercico 1.03</ownerDesignName>
+<shouldBeOpen>true</shouldBeOpen>
+<selectedRDBMSSite>32076570-2523-435C-2E92-BF29817DFF70</selectedRDBMSSite>
+</relationalModel>

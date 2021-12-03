@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="63EE2D97-7D85-B7EE-7CB3-BBCA8282274D" mainViewID="30BA44E8-E1A2-C023-DBC8-DFB264734F69">
+<createdBy>Roberto</createdBy>
+<createdTime>2021-10-29 10:20:00 UTC</createdTime>
+<ownerDesignName>Ejercico 1.03</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

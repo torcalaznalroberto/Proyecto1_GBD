@@ -1,0 +1,18 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<InheritanceRelation class="oracle.dbtools.crest.model.design.logical.InheritanceRelation" name="CIENCIAS" directorySegmentName="seg_0" id="B1B346E1-7227-73D8-4F3F-F9CC05CA2557">
+<createdBy>Roberto</createdBy>
+<createdTime>2021-10-29 10:30:14 UTC</createdTime>
+<ownerDesignName>Ejercico 1.03</ownerDesignName>
+<engineerTo>
+<item key="27BB67D2-5623-F2FF-C7E0-3C3A3F6827AD" value="true"/>
+</engineerTo>
+<identifying>false</identifying>
+<nameOnSource>Super Type</nameOnSource>
+<nameOnTarget>Sub Type</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>true</optionalTarget>
+<sourceEntity>AD7C1E6A-CE91-B22C-0F66-731D125A021A</sourceEntity>
+<targetEntity>90713E6E-9FCE-6525-DD8F-C9594A4E6F74</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</InheritanceRelation>
