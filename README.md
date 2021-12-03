@@ -5,13 +5,13 @@
 # Proyecto 1 - Gestion de bases de datos
 ## Contenido
 
->  **Archivos .html** de los ejercicios 1-8
+>  **Proyecto_01.pdf** recopilacion de apartados del proyecto.
 >  
->  **Carpeta css** con documentos .css del 1-8
+>  **Carpeta doc** con documentos .docx y .pdf de cada apartado del proyecto.
 >  
->  **Carpeta img** con imagenes usadas en la relación de ejercicios
+>  **Carpeta img** con imagenes usadas en el proyecto.
 >  
->  **Carpeta doc** con .pdf con enunciado de los ejercicios
+>  **Carpeta src** con archivos de la base de datos en sql developer data modeler.
 >  
 >  **Archivo README.md**
 
