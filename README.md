@@ -13,7 +13,7 @@
 >  
 >  **Carpeta src** con archivos de la base de datos en sql developer data modeler.
 >  
->  **Archivo README.md**
+>  **Archivo README.md.**
 
 ## Hecho por
 
